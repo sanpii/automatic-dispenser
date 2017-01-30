@@ -1,0 +1,12 @@
+#ifndef H_CONFIG_20160718
+#define H_CONFIG_20160718
+
+#define WIFI_SSID ""
+#define WIFI_PSK ""
+
+#define MQTT_SERVER "192.0.2.42"
+#define MQTT_PORT 1883
+#define MQTT_USER ""
+#define MQTT_PASSWORD ""
+
+#endif /* H_CONFIG_20160718 */
